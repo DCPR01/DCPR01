@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DCPR01
 - 👀 I’m interested in learning devops and coding.
-- 🌱 I’m currently learning python 3
-- 📫 You can reach me at dcafproductions@icloud.com  
+- 🌱 I’m currently learning python
+- 📫 You can reach me at dcafproductions@gmail.com  
 - ⚡ Fun fact: As a teenager i obtained a blackbelt in kenpo martial arts! Now I just wear black belts🤣!
 
 <!---
